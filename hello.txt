@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 hot-fix third update 
-=======
 hot-fix second update
 >>>>>>> hot-fix
 hello git!!hello zhang!!
