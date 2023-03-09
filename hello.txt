@@ -1,7 +1,8 @@
 
-hot-fix third update 
+hot-fix third update
+
 hot-fix second update
->>>>>>> hot-fix
+
 hello git!!hello zhang!!
 hello git!!hello zhang!!
 hello git!!hello zhang!!
@@ -14,3 +15,4 @@ hello git!!hello zhang!!
 hello git!!hello zhang!!
 hello git!!hello zhang!!
 1111111111111111111111111111
+2222222222222222222222222222
